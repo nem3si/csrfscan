@@ -1,4 +1,4 @@
-<h1>CSRF Vulnerability Scanner</h1>
+<h1>CSRF tester</h1>
 <p>The CSRF Vulnerability Scanner is a Python script designed to test web pages for potential Cross-Site Request Forgery (CSRF) vulnerabilities. It performs automated scans on a list of web pages, crafts malicious payloads, and checks for indications of successful unauthorized actions. If a vulnerability is detected, it generates a payload file containing the found payload.</p>
 
 
